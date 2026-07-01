@@ -1,11 +1,11 @@
 [package]
 name = "elementor-style-converter-rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Converts Elementor atomic widget CSS strings into typed PropValue trees — Rust port of the PHP css-converter module"
-license = "MIT"
-repository = "https://github.com/bhubbard/elementor-style-converter-rs"
-homepage = "https://github.com/bhubbard/elementor-style-converter-rs"
+license = "GPL-2.0"
+repository = "https://github.com/wp-rust/elementor-style-converter-rs"
+homepage = "https://github.com/wp-rust/elementor-style-converter-rs"
 documentation = "https://docs.rs/elementor-style-converter-rs"
 keywords = ["elementor", "wordpress", "css", "converter"]
 categories = ["text-processing", "parser-implementations"]
